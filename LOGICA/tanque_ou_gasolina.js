@@ -18,4 +18,12 @@ carro(40,480,300)
 // }
 
 
+for( var i = 1; i <= 10; i++){
+    console.log(7 * i)
+}
 
+
+var total = 0
+console.log(total)
+total++
+console.log(total)
